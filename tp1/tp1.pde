@@ -33,7 +33,7 @@ strokeWeight(2);
 //  CUERPO PRINCIPAL 
 rect(100, 120, 200, 190);
 
-//  COLUMNAS 
+///  COLUMNAS 
 rect(100, 150, 40, 160);
 rect(260, 150, 40, 160);
 
